@@ -1,0 +1,7 @@
+D:\NhapMonDevops\Lab\Lab2\JenkinsPipelineASPNet\JenkinsPipelineASPNet\obj\Release\net6.0\PubTmp\Out\JenkinsPipelineASPNet.exe
+D:\NhapMonDevops\Lab\Lab2\JenkinsPipelineASPNet\JenkinsPipelineASPNet\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\NhapMonDevops\Lab\Lab2\JenkinsPipelineASPNet\JenkinsPipelineASPNet\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\NhapMonDevops\Lab\Lab2\JenkinsPipelineASPNet\JenkinsPipelineASPNet\obj\Release\net6.0\PubTmp\Out\JenkinsPipelineASPNet.dll
+D:\NhapMonDevops\Lab\Lab2\JenkinsPipelineASPNet\JenkinsPipelineASPNet\obj\Release\net6.0\PubTmp\Out\JenkinsPipelineASPNet.deps.json
+D:\NhapMonDevops\Lab\Lab2\JenkinsPipelineASPNet\JenkinsPipelineASPNet\obj\Release\net6.0\PubTmp\Out\JenkinsPipelineASPNet.runtimeconfig.json
+D:\NhapMonDevops\Lab\Lab2\JenkinsPipelineASPNet\JenkinsPipelineASPNet\obj\Release\net6.0\PubTmp\Out\JenkinsPipelineASPNet.pdb
