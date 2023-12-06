@@ -24,3 +24,33 @@ D:\NhapMonDevops\Lab\Lab2\JenkinsPipelineASPNet\JenkinsPipelineASPNet\obj\Releas
 D:\NhapMonDevops\Lab\Lab2\JenkinsPipelineASPNet\JenkinsPipelineASPNet\obj\Release\net6.0\JenkinsPipelineASPNet.pdb
 D:\NhapMonDevops\Lab\Lab2\JenkinsPipelineASPNet\JenkinsPipelineASPNet\obj\Release\net6.0\JenkinsPipelineASPNet.genruntimeconfig.cache
 D:\NhapMonDevops\Lab\Lab2\JenkinsPipelineASPNet\JenkinsPipelineASPNet\obj\Release\net6.0\ref\JenkinsPipelineASPNet.dll
+D:\DaiHoc\Năm 3\DevOps\JenkinsPipelineASPNet\JenkinsPipelineASPNet\bin\Release\net6.0\appsettings.Development.json
+D:\DaiHoc\Năm 3\DevOps\JenkinsPipelineASPNet\JenkinsPipelineASPNet\bin\Release\net6.0\appsettings.json
+D:\DaiHoc\Năm 3\DevOps\JenkinsPipelineASPNet\JenkinsPipelineASPNet\bin\Release\net6.0\JenkinsPipelineASPNet.staticwebassets.runtime.json
+D:\DaiHoc\Năm 3\DevOps\JenkinsPipelineASPNet\JenkinsPipelineASPNet\bin\Release\net6.0\JenkinsPipelineASPNet.exe
+D:\DaiHoc\Năm 3\DevOps\JenkinsPipelineASPNet\JenkinsPipelineASPNet\bin\Release\net6.0\JenkinsPipelineASPNet.deps.json
+D:\DaiHoc\Năm 3\DevOps\JenkinsPipelineASPNet\JenkinsPipelineASPNet\bin\Release\net6.0\JenkinsPipelineASPNet.runtimeconfig.json
+D:\DaiHoc\Năm 3\DevOps\JenkinsPipelineASPNet\JenkinsPipelineASPNet\bin\Release\net6.0\JenkinsPipelineASPNet.dll
+D:\DaiHoc\Năm 3\DevOps\JenkinsPipelineASPNet\JenkinsPipelineASPNet\bin\Release\net6.0\JenkinsPipelineASPNet.pdb
+D:\DaiHoc\Năm 3\DevOps\JenkinsPipelineASPNet\JenkinsPipelineASPNet\obj\Release\net6.0\JenkinsPipelineASPNet.GeneratedMSBuildEditorConfig.editorconfig
+D:\DaiHoc\Năm 3\DevOps\JenkinsPipelineASPNet\JenkinsPipelineASPNet\obj\Release\net6.0\JenkinsPipelineASPNet.AssemblyInfoInputs.cache
+D:\DaiHoc\Năm 3\DevOps\JenkinsPipelineASPNet\JenkinsPipelineASPNet\obj\Release\net6.0\JenkinsPipelineASPNet.AssemblyInfo.cs
+D:\DaiHoc\Năm 3\DevOps\JenkinsPipelineASPNet\JenkinsPipelineASPNet\obj\Release\net6.0\JenkinsPipelineASPNet.csproj.CoreCompileInputs.cache
+D:\DaiHoc\Năm 3\DevOps\JenkinsPipelineASPNet\JenkinsPipelineASPNet\obj\Release\net6.0\JenkinsPipelineASPNet.MvcApplicationPartsAssemblyInfo.cache
+D:\DaiHoc\Năm 3\DevOps\JenkinsPipelineASPNet\JenkinsPipelineASPNet\obj\Release\net6.0\JenkinsPipelineASPNet.RazorAssemblyInfo.cache
+D:\DaiHoc\Năm 3\DevOps\JenkinsPipelineASPNet\JenkinsPipelineASPNet\obj\Release\net6.0\JenkinsPipelineASPNet.RazorAssemblyInfo.cs
+D:\DaiHoc\Năm 3\DevOps\JenkinsPipelineASPNet\JenkinsPipelineASPNet\obj\Release\net6.0\staticwebassets\msbuild.JenkinsPipelineASPNet.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DaiHoc\Năm 3\DevOps\JenkinsPipelineASPNet\JenkinsPipelineASPNet\obj\Release\net6.0\staticwebassets\msbuild.build.JenkinsPipelineASPNet.props
+D:\DaiHoc\Năm 3\DevOps\JenkinsPipelineASPNet\JenkinsPipelineASPNet\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.JenkinsPipelineASPNet.props
+D:\DaiHoc\Năm 3\DevOps\JenkinsPipelineASPNet\JenkinsPipelineASPNet\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.JenkinsPipelineASPNet.props
+D:\DaiHoc\Năm 3\DevOps\JenkinsPipelineASPNet\JenkinsPipelineASPNet\obj\Release\net6.0\staticwebassets.pack.json
+D:\DaiHoc\Năm 3\DevOps\JenkinsPipelineASPNet\JenkinsPipelineASPNet\obj\Release\net6.0\staticwebassets.build.json
+D:\DaiHoc\Năm 3\DevOps\JenkinsPipelineASPNet\JenkinsPipelineASPNet\obj\Release\net6.0\staticwebassets.development.json
+D:\DaiHoc\Năm 3\DevOps\JenkinsPipelineASPNet\JenkinsPipelineASPNet\obj\Release\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\DaiHoc\Năm 3\DevOps\JenkinsPipelineASPNet\JenkinsPipelineASPNet\obj\Release\net6.0\scopedcss\bundle\JenkinsPipelineASPNet.styles.css
+D:\DaiHoc\Năm 3\DevOps\JenkinsPipelineASPNet\JenkinsPipelineASPNet\obj\Release\net6.0\scopedcss\projectbundle\JenkinsPipelineASPNet.bundle.scp.css
+D:\DaiHoc\Năm 3\DevOps\JenkinsPipelineASPNet\JenkinsPipelineASPNet\obj\Release\net6.0\JenkinsPipelineASPNet.dll
+D:\DaiHoc\Năm 3\DevOps\JenkinsPipelineASPNet\JenkinsPipelineASPNet\obj\Release\net6.0\refint\JenkinsPipelineASPNet.dll
+D:\DaiHoc\Năm 3\DevOps\JenkinsPipelineASPNet\JenkinsPipelineASPNet\obj\Release\net6.0\JenkinsPipelineASPNet.pdb
+D:\DaiHoc\Năm 3\DevOps\JenkinsPipelineASPNet\JenkinsPipelineASPNet\obj\Release\net6.0\JenkinsPipelineASPNet.genruntimeconfig.cache
+D:\DaiHoc\Năm 3\DevOps\JenkinsPipelineASPNet\JenkinsPipelineASPNet\obj\Release\net6.0\ref\JenkinsPipelineASPNet.dll

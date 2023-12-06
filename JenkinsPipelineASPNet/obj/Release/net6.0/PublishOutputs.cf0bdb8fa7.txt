@@ -1,0 +1,7 @@
+D:\DaiHoc\Năm 3\DevOps\JenkinsPipelineASPNet\JenkinsPipelineASPNet\obj\Release\net6.0\PubTmp\Out\JenkinsPipelineASPNet.exe
+D:\DaiHoc\Năm 3\DevOps\JenkinsPipelineASPNet\JenkinsPipelineASPNet\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\DaiHoc\Năm 3\DevOps\JenkinsPipelineASPNet\JenkinsPipelineASPNet\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\DaiHoc\Năm 3\DevOps\JenkinsPipelineASPNet\JenkinsPipelineASPNet\obj\Release\net6.0\PubTmp\Out\JenkinsPipelineASPNet.dll
+D:\DaiHoc\Năm 3\DevOps\JenkinsPipelineASPNet\JenkinsPipelineASPNet\obj\Release\net6.0\PubTmp\Out\JenkinsPipelineASPNet.deps.json
+D:\DaiHoc\Năm 3\DevOps\JenkinsPipelineASPNet\JenkinsPipelineASPNet\obj\Release\net6.0\PubTmp\Out\JenkinsPipelineASPNet.runtimeconfig.json
+D:\DaiHoc\Năm 3\DevOps\JenkinsPipelineASPNet\JenkinsPipelineASPNet\obj\Release\net6.0\PubTmp\Out\JenkinsPipelineASPNet.pdb
